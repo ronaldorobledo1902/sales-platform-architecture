@@ -25,7 +25,8 @@ Os requisitos não funcionais da solução incluem:
 - Proteção contra ataques web
 - Escalabilidade global
 
-A exposição direta do Azure API Management para a internet aumenta a superfície de ataque da aplicação e não oferece recursos avançados de proteção e otimização de tráfego.
+A exposição direta do Azure API Management para a internet aumenta a superfície de ataque da aplicação e não oferece recursos 
+avançados de proteção e otimização de tráfego.
 
 Além disso, existe a necessidade futura de suportar múltiplas regiões Azure para garantir continuidade de negócio.
 
